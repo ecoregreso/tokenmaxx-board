@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T16:47:05.768Z",
+  "updatedAt": "2026-09-20T01:23:33.833Z",
   "profiles": [
     {
       "id": "michael-wall",
@@ -46,6 +46,21 @@
       "currentStreak": 85,
       "longestStreak": 85,
       "activitySeed": 1145
+    },
+    {
+      "id": "no",
+      "name": "no",
+      "handle": "@ecoregreso",
+      "location": "",
+      "country": "",
+      "countryCode": "",
+      "flag": "",
+      "lifetimeTokens": 20600000000,
+      "peakTokens": 984600000,
+      "longestTaskMinutes": 1191,
+      "currentStreak": 42,
+      "longestStreak": 42,
+      "activitySeed": 221
     },
     {
       "id": "wushuang-arvin",
