@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T01:23:33.833Z",
+  "updatedAt": "2026-10-20T17:49:23.000Z",
   "profiles": [
     {
       "id": "michael-wall",
@@ -18,6 +18,21 @@
       "activitySeed": 1200
     },
     {
+      "id": "bluebowls3629",
+      "name": "quanstudios",
+      "handle": "@quanstudios",
+      "location": "",
+      "country": "Australia",
+      "countryCode": "AU",
+      "flag": "🇦🇺",
+      "lifetimeTokens": 61200000000,
+      "peakTokens": 5800000000,
+      "longestTaskMinutes": 2021,
+      "currentStreak": 27,
+      "longestStreak": 27,
+      "activitySeed": 1187
+    },
+    {
       "id": "piyalitt-ittichaiwong",
       "name": "Piyalitt Ittichaiwong",
       "handle": "@piyalitt",
@@ -31,6 +46,21 @@
       "currentStreak": 136,
       "longestStreak": 136,
       "activitySeed": 2215
+    },
+    {
+      "id": "wushuang-arvin",
+      "name": "之元",
+      "handle": "@wushuang_arvin",
+      "location": "",
+      "country": "",
+      "countryCode": "",
+      "flag": "",
+      "lifetimeTokens": 33863483039,
+      "peakTokens": 1403004349,
+      "longestTaskMinutes": 3379,
+      "currentStreak": 61,
+      "longestStreak": 61,
+      "activitySeed": 1471
     },
     {
       "id": "adrianmelic",
@@ -48,6 +78,21 @@
       "activitySeed": 1145
     },
     {
+      "id": "christos-moshovitis",
+      "name": "Christos Moshovitis",
+      "handle": "@christospoachgroupin",
+      "location": "North Potomac",
+      "country": "United States",
+      "countryCode": "US",
+      "flag": "🇺🇸",
+      "lifetimeTokens": 26700000000,
+      "peakTokens": 2600000000,
+      "longestTaskMinutes": 1018,
+      "currentStreak": 30,
+      "longestStreak": 30,
+      "activitySeed": 2033
+    },
+    {
       "id": "no",
       "name": "no",
       "handle": "@ecoregreso",
@@ -63,19 +108,19 @@
       "activitySeed": 221
     },
     {
-      "id": "wushuang-arvin",
-      "name": "之元",
-      "handle": "@wushuang_arvin",
+      "id": "shaun-roselt",
+      "name": "Shaun Roselt",
+      "handle": "@shaunroselt",
       "location": "",
-      "country": "",
-      "countryCode": "",
-      "flag": "",
-      "lifetimeTokens": 20043719664,
-      "peakTokens": 922391456,
-      "longestTaskMinutes": 1906,
-      "currentStreak": 31,
-      "longestStreak": 31,
-      "activitySeed": 1471
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "flag": "🇿🇦",
+      "lifetimeTokens": 19600000000,
+      "peakTokens": 4300000000,
+      "longestTaskMinutes": 966,
+      "currentStreak": 16,
+      "longestStreak": 20,
+      "activitySeed": 1253
     },
     {
       "id": "david-marquez",
@@ -194,6 +239,21 @@
       "currentStreak": 44,
       "longestStreak": 44,
       "activitySeed": 837
+    },
+    {
+      "id": "jesse-l-shelley",
+      "name": "Jesse L. Shelley",
+      "handle": "@sleepparalysis",
+      "location": "",
+      "country": "United States",
+      "countryCode": "US",
+      "flag": "🇺🇸",
+      "lifetimeTokens": 1900000000,
+      "peakTokens": 89500000,
+      "longestTaskMinutes": 133,
+      "currentStreak": 8,
+      "longestStreak": 20,
+      "activitySeed": 1494
     }
   ]
 }
