@@ -241,6 +241,20 @@
       "activitySeed": 837
     },
     {
+      "id": "brad",
+      "name": "Brad",
+      "handle": "@scientificbrad",
+      "location": "",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "flag": "🇬🇧",
+      "lifetimeTokens": 4500000000,
+      "peakTokens": 191800000,
+      "longestTaskMinutes": 552,
+      "currentStreak": 21,
+      "longestStreak": 51
+    },
+    {
       "id": "jesse-l-shelley",
       "name": "Jesse L. Shelley",
       "handle": "@sleepparalysis",
