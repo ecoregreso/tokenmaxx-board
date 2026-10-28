@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T17:49:23.000Z",
+  "updatedAt": "2026-10-25T21:37:33.117Z",
   "profiles": [
     {
       "id": "michael-wall",
@@ -16,6 +16,20 @@
       "currentStreak": 7,
       "longestStreak": 61,
       "activitySeed": 1200
+    },
+    {
+      "id": "josh-liljenquist",
+      "name": "Josh Liljenquist",
+      "handle": "@kb4fhcg5by",
+      "location": "Minnesota",
+      "country": "United States",
+      "countryCode": "US",
+      "flag": "🇺🇸",
+      "lifetimeTokens": 64000000000,
+      "peakTokens": 3000000000,
+      "longestTaskMinutes": 659,
+      "currentStreak": 108,
+      "longestStreak": 108
     },
     {
       "id": "bluebowls3629",
@@ -63,6 +77,21 @@
       "activitySeed": 1471
     },
     {
+      "id": "no",
+      "name": "no",
+      "handle": "@ecoregreso",
+      "location": "",
+      "country": "",
+      "countryCode": "",
+      "flag": "",
+      "lifetimeTokens": 31600000000,
+      "peakTokens": 1400000000,
+      "longestTaskMinutes": 1262,
+      "currentStreak": 34,
+      "longestStreak": 44,
+      "activitySeed": 221
+    },
+    {
       "id": "adrianmelic",
       "name": "adrianmelic",
       "handle": "@adrianmelic",
@@ -76,21 +105,6 @@
       "currentStreak": 85,
       "longestStreak": 85,
       "activitySeed": 1145
-    },
-    {
-      "id": "no",
-      "name": "no",
-      "handle": "@ecoregreso",
-      "location": "",
-      "country": "",
-      "countryCode": "",
-      "flag": "",
-      "lifetimeTokens": 26800000000,
-      "peakTokens": 1400000000,
-      "longestTaskMinutes": 1262,
-      "currentStreak": 27,
-      "longestStreak": 44,
-      "activitySeed": 221
     },
     {
       "id": "christos-moshovitis",
@@ -239,6 +253,20 @@
       "currentStreak": 44,
       "longestStreak": 44,
       "activitySeed": 837
+    },
+    {
+      "id": "brad",
+      "name": "Brad",
+      "handle": "@scientificbrad",
+      "location": "",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "flag": "🇬🇧",
+      "lifetimeTokens": 4500000000,
+      "peakTokens": 191800000,
+      "longestTaskMinutes": 552,
+      "currentStreak": 21,
+      "longestStreak": 51
     },
     {
       "id": "jesse-l-shelley",
