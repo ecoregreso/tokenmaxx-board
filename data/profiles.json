@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T12:13:51Z",
+  "updatedAt": "2026-11-23T06:53:17Z",
   "profiles": [
     {
       "id": "michael-wall",
@@ -40,11 +40,11 @@
       "country": "",
       "countryCode": "",
       "flag": "",
-      "lifetimeTokens": 35900000000,
+      "lifetimeTokens": 43000000000,
       "peakTokens": 1500000000,
       "longestTaskMinutes": 1262,
-      "currentStreak": 43,
-      "longestStreak": 44,
+      "currentStreak": 59,
+      "longestStreak": 59,
       "activitySeed": 221
     },
     {
